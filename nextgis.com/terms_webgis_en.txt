@@ -1,0 +1,162 @@
+User Agreement for Web GIS Service
+
+http://www.nextgis.com/terms-webgis
+
+Effective date: 18.07.2016
+
+
+Please read this User Agreement for Web GIS Service (“User Agreement”) carefully because it presents a public offer to enter into a legally binding agreement, made by Administrator in accordance with Article 438 of the Civil Code of the Russian Federation. By sending to Administrator a request to create Web GIS User signifies his/her acceptance of this User Agreement and agrees to be bound by it in accordance with Article 438 of the Civil Code of the Russian Federation.
+
+
+1. Definitions
+
+1.1. Web GIS Service (“Service”) - online and API service for creation and maintaining User Web GIS on Administrator servers.
+
+1.2. Administrator - “NextGIS” LLC, incorporated under the laws of Russian Federation and registered at: Novoryazanskaya str., 26, building 1, Moscow, 105066, Russia. 
+
+1.3. User - an individual of 18 years old or older, who’s obtained NextGIS ID and uses Service in accordance with the present User Agreement. User acting on behalf of a legal entity represents that he/she has the authority to enter into legally binding agreements on behalf of that entity. In that case User Agreement binds both the User and the entity represented by User.
+
+1.4. Customer – User or entity represented by User, who have paid for Service in accordance with the present User Agreement. All User Agreement provisions addressed to User are addressed in full to Customer. 
+
+1.5. Plan – description of Service parameters, with indication of their volume options during the defined period and their price dependant on the selected volume option. Plans are published at http://nextgis.ru/nextgis-com/plans and can be selected by User while making Order. Administrator may modify Plans from time to time without giving any prior notice. 
+
+1.6. Dashboard – section of Administrator’s website available at my.nextgis.com and designed for creation and management of User account, Service Orders and Service management. 
+
+1.7. Order – list of Service parameters formed by User via Dashboard or e-mail, including:
+- Service term;
+- selected Plan;
+- total Service price.
+
+1.8. Reporting period – calendar month in which Administrator provided Service to User.
+
+1.9. Trial period – period of time during which User gets aquainted with Web GIS Service functionality and usability. Trial period parameters are set in Plans. 
+
+1.10. In case User Agreement contains terms not defined in this Section they must be construed in accordance with User Agreement text. If it doesn’t provide unambiguous meaning, they shall be construed: first, in accordance with NextGIS Terms of Service available at http://nextgis.com/terms and Privacy Policy available at http://nextgis.com/privacy; second, in accodance with rules and principles of international law; third, in accordance with laws of the Russian Federation.
+
+
+2. Agreement Subject, Price and Term
+
+2.1. Administrator provides to User free and/or paid access to Web GIS Service, and User accepts and pays for Service on the terms of present User Agreement. 
+
+2.2. The price of paid access to Web GIS Service is set in Order according to selected Plan and fixed in Administrator’s Invoice which is considered to be an integral part of User Agreement. Administrator sends Invoice to User within 2 (two) working days after receipt of User Order. 
+
+2.3. Term of paid access to Service is set in Order and fixed in Invoice. Term of free access to Service is set in Plan which contains free access conditions and is selected by User.
+
+2.4. Administrator starts providing paid access to Service not later than 2 (two) working days after the date of payment, and starts providing free access not later than 2 (two) working days after receipt of User Order. Administrator reserves the right to suspend User access to Services after the set term of paid or free access has ended.
+
+
+3. Payments and Acceptance
+
+3.1. Customer pays for the Services by settling the Administrator’s Invoice: 
+3.1.1. Legal entities settle the Invoice via bank transfer from Customer’s bank account to Administrator’s bank account.
+3.1.2. Individual Customers settle the Invoice via bank transfer from Customer’s bank account to Administrator’s bank account, or using online payment systems or other payment options available from Dashboard. 
+
+3.2. Customer is obligated to indicate Invoice number and date when making a payment to Administrator’s bank account, to make it possible to identify the payment.
+
+3.3. The date of receipt of due amounts to Administrator’s bank account, in case Customer had performed his/her obligations considering payment identification according to Clause 3.2, shall be regarded as the date of payment. 
+
+3.4. For accounting purposes Administrator shall send the Acceptance Act to Customer within 5 (five) working days after the end of the Reporting period.
+
+3.5. Customer shall sign the Acceptance Act and send one signed copy of the Acceptance Act, or its grounds for rejection of signing the Acceptance Act, back to Administrator within 5 (five) working days after its receipt. 
+
+3.6.  The Customer’s signing of the Acceptance Act or its failure to send to Administrator the grounds for rejection of signing the Acceptance Act during the term defined in Clause 3.5, shall constitute the acceptance of the Services in the Reporting period.
+
+
+4. Rights and Obligations of the Parties
+
+4.1. Administrator is obligated:
+4.1.1. To render Services to User in accordance with the present User Agreement, NextGIS Terms of Service, Privacy Policy, rules and principles of international law, laws of the Russian Federation.
+4.1.2. To take all possible steps to eliminate the Services malfunctions, interruptions and level decreases, and to notify User in advance about upcoming interruptions of the Services, when possible.
+4.1.3. To notify User about upcoming changes in Plans by publishing them at  http://nextgis.com/nextgis-com/plans not less than 10 (ten) days in advance. 
+4.1.4. To provide User with all necessary information about Services prices and terms of use.
+
+4.2. Administrator has a right:
+4.2.1. To stop rendering Services to User temporarily or altogether: 
+during assembling works, repairs, maintanance and testing activities, as well as during failures and outages of any equipment used for providing Services to Users;
+if Administrator learns of any User actions violating laws of the Russian Federation and/or harming Administrator, other users or third parties;
+if User fails to pay for paid access in time;
+in other cases stipulated in User Agreement, Plans, NextGIS Terms of Service, Privacy Policy, rules and principles of international law, laws of the Russian Federation.
+4.2.2. To receive from User information required for execution of User Agreement.
+4.2.3. To subcontract third parties bearing full responsibility for their actions.
+4.2.4. To provide User with Trial period to get aquainted with Web GIS Service functionality and usability normally available only through paid access. Access to Services during Trial period is free.
+4.2.5. To terminate User Agreement unilaterally and remove all User Content without any prior notification if User fails to use Web GIS Service functionality and pay for paid access for 6 (six) months in succession. 
+
+4.3. User is obligated:
+4.3.1. To use Web GIS Service in accordance with the present User Agreement, NextGIS Terms of Service, Privacy Policy, rules and principles of international law, laws of the Russian Federation.
+
+4.4. User has a right:
+4.4.1. To use Web GIS Service for commercial or non-commercial purposes on terms of the selected Plan.
+4.4.2. To receive from Administrator all necessary information about Services prices and terms of use.
+4.4.3. To ask Administrator any questions regarding Services level and terms of use.
+4.4.4. To get aquainted with Web GIS Service functionality and usability during Trial period, in case Administrator provides it. 
+
+
+5. Termination of User Agreement and Refunds Policy
+
+5.1. This User Agreement may be terminated:
+5.1.1. By both Parties agreeing to it, at any time.
+5.1.2. By any of the Parties, in case another Party violates terms of this User Agreement or NextGIS Terms of Service, with prior notification of another Party.
+5.1.3. By any of the Parties, with prior notification of another Party not less than 10 (ten) days prior to termination of User Agreement.
+5.1.4. By Administrator, without prior notification of User, in accordance with Clause 4.2.5 of User Agreement.
+
+5.2. In case of early termination of User Agreement Administrator may refund Customer’s payments for future Reporting periods. Refunds for previous and current Reporting periods are not made. Refunds are made only on the basis of Customer’s request, via bank transfer. Refunds can’t be made to bank account of third party. The refunds policy is the same for individual Customers and legal entities.
+
+
+6. Warranties and Liability of the Parties
+
+6.1. For the duration of User Agreement Administrator shall exercise reasonable care in keeping the User Content secure and Web GIS Service available for use. At the same time User accepts the risk of possible outages and malfunctions in Web GIS Service and agrees that Administrator does not have technical means to predict their occurence, notice User about them in advance or  fully eliminate their possibility. The occurence of outages or malfunctions, regardless of their reasons or consequences, can not serve as a basis for Administrator liability. 
+
+6.2. Web GIS Service and its functionality are provided “as is”. Except for guarantees specifically indicated in this User Agreement Administrator excludes all direct or indirect warranties about Web GIS Service or its specific functions and their fitness for a particular purpose.
+
+6.3.  The Parties shall incur a liability for the infringement of terms of this User Agreement in accordance with the User Agreement and the laws of Russian Federation. 
+
+6.4. In no case Administrator shall be liable for: а) any actions or failures to act caused by  User’s and/or third parties’ actions or failure to act; b) any User’s and/or third parties’ losses irrespective of Administrator’s ability to predict them; c) use of the selected way of payment for the Services (or inability to do so), and all possible consequences of these User actions, as well as use of any means of communication by Users and/or third parties (or their inability to do so).
+
+6.5. In no case Administrator and its employees will be liable for any damages, including data losses, or lost profits caused by use of Web GIS Service or Administrator blocking or deleting User access to Web GIS Service, blocking or deleting User account, or removing User Content from Web GIS Service. 
+
+6.6. If Administrator, in Customer’s opinion, fails to perform the Services properly and in full, Customer may forward to Administrator a written claim asking for a refund of Customer’s documented damages and/or early termination of this User Agreement. Administrator is bound to reply to such written claim within 10 (ten) days after its receipt. In case Customer’s damages are deemed valid by Administrator, it shall give Customer a refund not exceeding Services price for one month preceding Customer’s claim and/or terminate this User Agreement.
+
+6.7. Neither Party will be liable for any delay or failure to meet its obligations under this User Agreement due to circumstances beyond its reasonable control, and the deadline for performance of obligations will be extended for the duration of such circumstances. In the event Administrator is prevented from performing its obligations under this User Agreement due to circumstances beyond its reasonable control, it will as soon as possible (but not later than within 5 (five) working days) notify User about them and about their expected duration via email or by publishing this information at Administrator’s website. Circumstances beyond reasonable control of the Parties include but are not limited to war, riot, insurrection, civil commotion, labor strikes or lockouts, shortages, power outages, fire, flood, earthquake or storm, as well as regulations and actions of government bodies entered into legal force after the Effective date and making performance of obligations under User Agreement impossible. If circumstances beyond reasonable control of the Parties and/or their consequences last more than thirty calendar days in succession, the User Agreement may be terminated at any time by any Party sending written notification to another Party.
+
+6.8. The liability of Administrator for the failure to perform obligations in accordance with this User Agreement may not exceed the Services price for one Reporting period. 
+
+6.9. In all cases the aggregate liability of Administrator in accordance with Article 15 of Civil Code of the Russian Fereration is limited to 5 000 (five thousand) Russian rubles, and Administrator can be charged with it only if found guilty in his actions or failure to act.
+
+
+7. Miscellaneous
+
+7.1. This User Agreement is concluded between Administrator and User regarding use of Web GIS Service. This User Agreement is made effective for the unlimited period of time and supersedes and replaces any prior agreements between Administrator and User regarding use of Web GIS Service.
+
+7.2. This User Agreement and any action related thereto will be governed by the laws of the Russian Federation without regard to the location of User or his/her equipment. All claims arising out of or relating to this User Agreement will be litigated exclusively in the courts located at Administrator’s place of registration. 
+
+7.3. In case of any dispute relating to this User Agreement User and Administrator first shall seek to resolve them by conducting talks. If dispute is not resolved in this way, it shall be resolved using procedure set by the laws of the Russian Federation. 
+
+7.4. This User Agreement is originally drafted in Russian language and may be provided to User for perusing in another language. If there is any inconsistency between Russian language and another language of User Agreement, the Russian version will prevail to the extent of the inconsistency. 
+
+7.5. If it turns out that a particular term of User Agreement is not enforceable, this will not affect any other terms.
+
+7.6. Administrator may modify/update this User Agreement from time to time without giving any prior notice. The most current version of the Terms is available at http://nextgis.com/terms-webgis. Administrator recommends Users to check this page for updates. By continuing to access or use Web GIS Service after User Agreement was modified/updated, User agrees to be bound by the updated User Agreement. 
+
+7.7. All questions, notices and claims arising from User Agreement shall be sent: 
+- via email: а) to User email address provided by him/her during signup, from Administrator email address indicated in Clause 8, when it is addressed to User, and b) to Administrator email address indicated in Clause 8, from User email address provided by him/her during signup, when it is addressed to Administrator; 
+- via regular mail, using a registered letter with a return receipt, or via courier mail with a delivery confirmation.
+
+7.8. User and Administrator may at any moment enter into bilateral Contract governing use of Web GIS Service. In this case terms of bilateral Contract shall supersede terms of the present User Agreement.
+
+
+8. Administrator details:
+
+Limited liability company “NextGIS”
+Tax number (ИНН/КПП): 7701921884/770101001
+State registration number (ОГРН): 1117746447610
+Legal address: Novoryazanskaya str., 26, building 1, Moscow, Russia
+Mailing address: Vavilova str., 41, office 2, Moscow, 117312, Russia
+CEO: Maxim Y. Dubinin
+Phone: +7968-730-5252
+Email: info@nextgis.com
+
+USD account:
+Intermediary:
+Clearing Account 400210991 at JPMORGAN CHASE BANK N.A., 4 New York Plaza, Floor 15 New York City, NY 10004 USA; SWIFT:  CHASUS33
+Beneficiary:
+Corresponding account 40702840922000032702 at Absolut Bank, Moscow, Russia; SWIFT: ABSLRUMM
