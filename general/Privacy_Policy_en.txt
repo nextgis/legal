@@ -2,7 +2,7 @@ PRIVACY POLICY
 
 http://www.nextgis.com/privacy
 
-Effective date: 06.05.2016
+Effective date: 18.07.2016
 
 This English version is a translation. Only the Russian version which can be found at http://nextgis.ru/privacy is legally binding.
 
@@ -11,11 +11,11 @@ This Privacy Policy (the “Policy”) sets out the terms for processing of the 
 
 1. General
 
-1.1. This Policy is an integral part of Terms of Service available at http://nextgis.com/terms, Terms of Use for the specific Services and other contracts between User and Administrator in case they directly specify it.
+1.1. This Policy is an integral part of Terms of Service available at http://nextgis.com/terms and User Agreements and Contracts for the specific Services, in case User Agreements and Contracts directly specify it.
 
-1.2. Hereinafter the Policy uses the meaning of terms and expressions pursuant to the Terms of Service or other contracts between User and Administrator, unless the Policy directly specifies or implies otherwise. If the definition is not provided, terms and expressions shall be construed pursuant to the laws of the Russian Federation. 
+1.2. Hereinafter the Policy uses the meaning of terms and expressions pursuant to the Terms of Service or User Agreements and Contracts for the specific Services, unless the Policy directly specifies or implies otherwise. If the definition is not provided, terms and expressions shall be construed pursuant to the laws of the Russian Federation. 
 
-1.3. By using Services in any way User signifies his/her acceptance of this Policy and  terms for processing of his/her Personal information set out in the Policy. If User does not agree with these terms he/she should abstain from use of the Services.
+1.3. By using Services in any way User signifies his/her acceptance of this Policy and terms for processing of his/her Personal information set out in the Policy. If User does not agree with these terms  he/she should abstain from use of the Services.
 
 1.4. The scope of the Policy is limited by the information processed during the use of the Services. Administrator does not control or takes any responsibility for the processing of the information by Third-party Services which can be accessed by User via links from the Services. 
 
@@ -23,7 +23,8 @@ This Privacy Policy (the “Policy”) sets out the terms for processing of the 
 2. Scope of Personal information
 
 2.1. User Personal information (the “Personal information”) in this Policy means the following information, including personal data:
-- information provided by User to Administrator during signup or authorization, including e-mail address, login and password to access the Services, and additional information which User can choose to provide to Administrator at his/her will either manually or by giving access to his/her accounts at other online resources;
+- mandatory information provided by User to Administrator during signup or authorization, including e-mail address, login and password to access the Services, and additional information which User can choose to provide to Administrator at his/her will either manually or by giving access to his/her accounts at other online resources;
+- information provided by User to Administrator during the use of the specific Services, including information required for creation of orders, agreements and invoices for paid Services;
 - data collected by Administrator in automatic mode according to User software settings, including but not limited to: Internet Protocol (IP) address, cookie information, browser (or other software used to access the Services) identification information, technical parameters of User software and hardware, date and time of accessing the Services, accessed pages, information uploaded and/or downloaded during the use of the Services, etc.;
 - information received by Administrator during execution of Terms of Service and User Agreements and Contracts for the specific Services, and/or necessary for performing obligations under the said documents.
 
@@ -51,7 +52,7 @@ This Privacy Policy (the “Policy”) sets out the terms for processing of the 
 
 4. Protection of Personal information
 
-4.1. Administrator takes all necessary and sufficient legal, organizational and technical measures to protection Personal information from illegal or accidental access, removal, editing, blocking, copying, publishing or other unauthorized action by third parties. 
+4.1. Administrator takes all necessary and sufficient legal, organizational and technical measures to protect Personal information from illegal or accidental access, removal, editing, blocking, copying, publishing or other unauthorized action by third parties. 
 
 4.2. Administrator stores and processes Personal information in accordance with its internal rules and regulations. Administrator processes User personal data in accordance with Federal law “On personal data”. 
 
@@ -67,12 +68,12 @@ This Privacy Policy (the “Policy”) sets out the terms for processing of the 
 such transfer is necessary for functioning of Services according to the Administrator’s obligations under his agreement with User (for example, when third party’s hardware is used for storage and processing of Personal information);
 - such transfer is necessary for collection and processing of depersonalised data for enhancing performance and user experience of Services (for example, when Administrator uses third party statistics and analytics services);
 - following request from court or other designated authority made according to the valid legal procedure;
-- for protection of rights and interests of Administrator and third parties in case User violates NextGIS Terms of Service, Terms of Use for the specific Services, this Policy or other contracts between User and Administrator.
+- for protection of rights and interests of Administrator and third parties in case User violates NextGIS Terms of Service, present Policy and/or User Agreements and Contracts for the specific Services.
 
 
 6. Use of Cookies and trackers
 
-6.1. Cookie files transferred from Administrator to User devices and from User devices to Administrator can be used by Administrator to simplify User authentication when returning to the specific Services or visiting different Services  (“single sign-on”), for statistical and research purposes, and to enhance performance and user experience of Services.
+6.1. Cookie files transferred from Administrator to User devices and from User devices to Administrator can be used by Administrator to simplify User authentication when returning to the specific Services or visiting different Services (“single sign-on”), for statistical and research purposes, and to enhance performance and user experience of Services.
 
 6.2. User is aware that hardware and software used for his/her web browsing may ban operations with cookie files for all or selected websites and remove previously received cookie files.
 
@@ -90,7 +91,7 @@ such transfer is necessary for functioning of Services according to the Administ
 7.2. Personal information can be removed:
 - by User when editing Personal information in his/her account;
 - by Administrator when User requests to remove his/her account completely;
-- by Administrator when Administrator removes User account according to NextGIS Terms of Service, Terms of Use for the specific Services or other contracts between User and Administrator.
+- by Administrator when Administrator removes User account according to NextGIS Terms of Service or User Agreements and Contracts for the specific Services.
 
 7.3. Administrator is bound to remove Personal information from his servers not later than 6 (six) months after its edit/removal by User or User account removal, except for the cases when different term is required according to Russian federal laws.
 
