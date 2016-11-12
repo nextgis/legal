@@ -1,0 +1,111 @@
+PRIVACY POLICY
+
+http://www.nextgis.com/privacy
+
+Effective date: 06.05.2016
+
+This English version is a translation. Only the Russian version which can be found at http://nextgis.ru/privacy is legally binding.
+
+This Privacy Policy (the “Policy”) sets out the terms for processing of the Personal information, including personal data, of NextGIS Services Users. 
+
+
+1. General
+
+1.1. This Policy is an integral part of Terms of Service available at http://nextgis.com/terms, Terms of Use for the specific Services and other contracts between User and Administrator in case they directly specify it.
+
+1.2. Hereinafter the Policy uses the meaning of terms and expressions pursuant to the Terms of Service or other contracts between User and Administrator, unless the Policy directly specifies or implies otherwise. If the definition is not provided, terms and expressions shall be construed pursuant to the laws of the Russian Federation. 
+
+1.3. By using Services in any way User signifies his/her acceptance of this Policy and  terms for processing of his/her Personal information set out in the Policy. If User does not agree with these terms he/she should abstain from use of the Services.
+
+1.4. The scope of the Policy is limited by the information processed during the use of the Services. Administrator does not control or takes any responsibility for the processing of the information by Third-party Services which can be accessed by User via links from the Services. 
+
+
+2. Scope of Personal information
+
+2.1. User Personal information (the “Personal information”) in this Policy means the following information, including personal data:
+- information provided by User to Administrator during signup or authorization, including e-mail address, login and password to access the Services, and additional information which User can choose to provide to Administrator at his/her will either manually or by giving access to his/her accounts at other online resources;
+- data collected by Administrator in automatic mode according to User software settings, including but not limited to: Internet Protocol (IP) address, cookie information, browser (or other software used to access the Services) identification information, technical parameters of User software and hardware, date and time of accessing the Services, accessed pages, information uploaded and/or downloaded during the use of the Services, etc.;
+- information received by Administrator during execution of Terms of Service and User Agreements and Contracts for the specific Services, and/or necessary for performing obligations under the said documents.
+
+2.2. Administrator does not verify Personal information provided to him and assumes the User acts in good faith, with due deliberation and applies reasonable efforts to keep his/her Personal information up-to-date.
+
+2.3. Administrator does not process Personal information of persons who are not Services Users. In case User uploads to Services personal data of third parties and/or use Services to collect, process and publish such data, he/she bears full responsibility for obtaining consent of personal data subjects to perform such actions, for personal data safety and confidentiality, and for complying with other legal requirements, imposed by the Russian Federation laws and other applicable laws.
+
+
+3. Use of Personal information
+
+3.1. Administrator processes only that Personal information which is necessary for making and execution of agreements and contracts between User and Administrator.
+
+3.2. User accepts and agrees that Administrator processes Personal information for the following purposes: 
+- making of agreements and contracts for the use of Services;
+- performing obligations under the existing agreements and contracts, including provision of User access to Services; 
+- identifying User in order to perform obligations under the existing agreements and contracts;
+- contacting User by sending him notices, requests and information related to the use of Services and/or execution of agreements and contracts, and processing of User requests and notices;
+- providing technical support related to the use of Services;
+- enhancing performance and user experience of Services, developing new Services;
+- marketing and other research based on depersonalised data.
+
+3.3. By using Services User gives his consent to receive advertising messages and for his/her personal data to be processed by Administrator for the purpose of advertising of Administrator services in accordance with Article 18(1) of the Federal law “On advertising” and Article 15(1) of the Federal law “On personal data”.  
+3.4. User can waive his consent to receive advertising messages by using relevant technical functionality of the used or mentioned service or by sending the relevant request to info@nextgis.com. 
+
+
+4. Protection of Personal information
+
+4.1. Administrator takes all necessary and sufficient legal, organizational and technical measures to protection Personal information from illegal or accidental access, removal, editing, blocking, copying, publishing or other unauthorized action by third parties. 
+
+4.2. Administrator stores and processes Personal information in accordance with its internal rules and regulations. Administrator processes User personal data in accordance with Federal law “On personal data”. 
+
+4.3. User Personal information is confidential except when User voluntarily makes it available to general public. User accepts and agrees that use of some of the Services technical functionality leads to making part of his/her Personal information available to general public.
+
+4.4. Administrator arranges storage of Personal information inside the Russian Federation. By providing to Administrator their Personal information non-Russia-resident Users accept and agree that their Personal information will be processed and protected according to Russian laws on personal data which can differ from laws in User country of residence.
+
+
+5. Disclosure and sharing of Personal information 
+
+5.1. User accepts and agrees that Administrator can transfer Personal information to third parties in the following cases:
+- User gave his consent for such transfer, including when User set his/her software in a way which doesn’t restrict transfer of automatically collected data; 
+such transfer is necessary for functioning of Services according to the Administrator’s obligations under his agreement with User (for example, when third party’s hardware is used for storage and processing of Personal information);
+- such transfer is necessary for collection and processing of depersonalised data for enhancing performance and user experience of Services (for example, when Administrator uses third party statistics and analytics services);
+- following request from court or other designated authority made according to the valid legal procedure;
+- for protection of rights and interests of Administrator and third parties in case User violates NextGIS Terms of Service, Terms of Use for the specific Services, this Policy or other contracts between User and Administrator.
+
+
+6. Use of Cookies and trackers
+
+6.1. Cookie files transferred from Administrator to User devices and from User devices to Administrator can be used by Administrator to simplify User authentication when returning to the specific Services or visiting different Services  (“single sign-on”), for statistical and research purposes, and to enhance performance and user experience of Services.
+
+6.2. User is aware that hardware and software used for his/her web browsing may ban operations with cookie files for all or selected websites and remove previously received cookie files.
+
+6.3. Administrator may provide access to the specific Services on a condition that User accepts operations with cookie files.
+
+6.4. Structure, content and technical parameters of cookie files are set by Administrator and can be changed without User prior notification. 
+
+6.5. Trackers placed by Administrator at Services pages can be used to analyse User’s cookie files, to collect and process statistical data on how Services are used, to maintain Services or their separate functions. Trackers technical parameters are set by Administrator and can be changed without User prior notification. 
+
+
+7. Editing and removal of Personal information
+
+7.1. User can at any time edit in his/her account Personal information provided during signup or authorization.
+
+7.2. Personal information can be removed:
+- by User when editing Personal information in his/her account;
+- by Administrator when User requests to remove his/her account completely;
+- by Administrator when Administrator removes User account according to NextGIS Terms of Service, Terms of Use for the specific Services or other contracts between User and Administrator.
+
+7.3. Administrator is bound to remove Personal information from his servers not later than 6 (six) months after its edit/removal by User or User account removal, except for the cases when different term is required according to Russian federal laws.
+
+7.4. To enhance performance and user experience of Services Administrator can store logs with depersonalised data on User actions for 3 (three) years. 
+
+
+8. Amendments to the Policy
+
+8.1. Administrator may modify/update this Policy from time to time without giving any prior notice. The most current version of the Policy is available at http://nextgis.com/privacy. Administrator recommends Users to check this page for updates. By continuing to access or use the Services after Policy was modified/updated, User agrees to be bound by the updated Policy.
+
+
+9. Feedback
+
+9.1. All questions, notices and claims regarding the present Policy and processing of User Personal information by Administrator should be sent to info@nextgis.com or to the following postal address:
+
+“NextGIS” LLC
+Office 2, 41 Vavilova street,
+Moscow, 117312, Russia

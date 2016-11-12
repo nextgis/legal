@@ -1,0 +1,148 @@
+TERMS OF SERVICE
+
+http://www.nextgis.com/terms
+
+Effective date: 06.05.2016
+
+This English version is a translation. Only the Russian version which can be found at http://nextgis.ru/terms is legally binding.
+
+Administrator provides access to NextGIS Services and its Content on the present Terms of Service (the “Terms”). Please note that Terms of Service incorporate Privacy Policy available at http://nextgis.com/privacy and Terms of Use for the specific Services.
+
+Please read these Terms carefully because they present a public offer to enter into a legally binding agreement, made by Administrator in accordance with Article 438 of the Civil Code of the Russian Federation. By using NextGIS Services or its Content in any way User signifies his/her acceptance of these Terms and agrees to be bound by them in accordance with Article 438 of the Civil Code of the Russian Federation. 
+
+
+1. Definitions
+
+1.1. NextGIS Services (the “Services”) – owned and operated by Administrator websites, mobile, desktop and server applications, online services and APIs, either available on the Effective Date of the present Terms or developed later.
+
+1.2. Administrator - “NextGIS” LLC, incorporated under the laws of Russian Federation and registered at: Novoryazanskaya str., 26, building 1, Moscow, 105066, Russia. 
+Administrator owns the Services and provides access to them for all interested parties according to the rules and principles of international law, laws of the Russian Federation, present Terms, Terms of Use for the specific Services and Privacy Policy.
+
+1.3. User - an individual of 14 years old or older, who uses the Services in accordance with the present Terms.  User acting on behalf of a legal entity represents that he/she has the authority to enter into legally binding agreements on behalf of that entity. In that case the Terms bind both the User and the entity represented by him.
+
+1.4. Content - data, metadata, hypelinks, texts, audio and video materials, scripts, web maps, sensor data, graphic objects (raster and vector images), including cartographic products, maps, plans, Earth remote sensing and aerial survey data, or any other information placed and stored in Services by Administrator or User.
+
+
+2. Signing up and User account (NextGIS ID)
+
+2.1. In order to use some Services and its Content User needs to sign up for user account (NextGIS ID) first.
+
+2.2. Signing up is strictly voluntary. By signing up for NextGIS ID User confirms that he is at least 14 years old and has the necessary authority in case of using the Services on behalf of an entity.
+
+2.3. In order to sign up for NextGIS ID User provides to Administrator necessary, correct and up-to-date personal information, including e-mail address (it must be unique for each User), login and password. Signup form can request User for additional information, including his/her first and last name. User may enter the requested information manually or by providing Administrator with access to his/her user accounts in other online services. It is expressly forbidden to provide incorrect personal information or sign up as other person (create “fake account”).
+
+2.4. In some cases Administrator may ask User to verify personal information provided during signup process, and to that purpose ask User to show some form of ID documents. The User refusal to provide Administrator with requested documents can be construed as providing of incorrect personal information. In case User personal information provided during signup process can’t be verified with documents Administrator reserves the right to refuse User access to NextGIS ID and Services. 
+
+2.5. After providing necessary information User must activate an account by following instructions sent to his/her email. After successful activation User’s NextGIS ID is created. User is forbidden to create more than one NextGIS ID.
+
+2.6. All User information kept in NextGIS ID is stored and processed by Administrator in accordance with Privacy Policy. User is responsibile for timely updates of information kept in his/her NextGIS ID in case of any changes.
+
+2.7. Login and password selected by User are considered to be necessary and sufficient information to access the Services. User is not allowed to transfer his/her login and password to any third party and is fully responsible for their safekeeping and selecting the way they are kept. If User can’t prove otherwise any action commited using his/her login and password are considered to be commited by the User. 
+
+2.8. In case of unauthorized access to User login, password or other account unformation by third parties, or in case of other User account data leak, either occured or possible, he/she must inform Administrator about it immediately via email info@nextgis.com and perform all actions advised by Administrator, including login/password change or other actions aimed at neutralization of account data leak. 
+
+2.9. User is expressly forbidden to use login and password of other registered User to access the Services. 
+
+2.10. User is allowed to: (a) edit or delete any information in his/her NextGIS ID, except for deletion of login, password and email; (b) delete his/her NextGIS ID by sending a corresponding request to Administrator. NextGIS ID is deleted by Administrator in 24 hours following User’s request for account delete. 
+
+2.11. Administrator may block or delete User account without prior notice and without explanation, e.g. for violation of the present Terms by User. After User account is deleted he/she loses access to the Services and its Content which are available only for registered Users.
+
+
+3. Terms of Use for the Services
+
+3.1. Administrator provides to User access to the following functionality of the Services: 
+- storage of the Content on Administrator servers or User devices disc space;
+- creation, uploading, modification, viewing, processing, visualization and analysis of the Content using Administrator servers or User devices processing power;
+- publishing of the Content by providing unrestricted access to it for the unlimited number of Users and third parties;
+- access to the Content generated by Administrator or other Users;
+- use of the Services for creation of end-user applications, both commercial and not-for-profit.
+
+3.2. Administrator reserves the right to change, amend and update the Services at any moment, without prior notice of the Users. After release of the new version Administrator doesn’t guarantee stable or continuing functioning of the previous version of the Service. 
+
+3.3. Administrator informs Users about technical, organisational and commercial terms and conditions for use of the Services, including description of Services functionality: (a) by publishing this information at the dedicated sections of nextgis.com and/or nextgis.ru websites, (b) by publishing this information at other online resourses controlled by Administrator.
+
+3.4. Administrator reserves the right to set and change at his own discretion any rules and limits for the free use of the Services, including those related to: the amount of disc space for User Content storage; the number of objects in User Content; the number of requests to User Content per time unit; the User Content permissions settings. When it is not forbidden by law these rules and limits can be different for different User categories.
+
+3.5. User is fully responsible for any actions related to his/her use of the Services, including responsibility before third parties when Content published by User infringes rights of third parties.
+
+3.6. User is expressly forbidden to perform the following acts while using the Services:
+- create, upload, store, publish or use in any other way Content which violates rights of other Users or third parties, rules and principles of international law, laws of the Russian Federation, other laws and rules applicable to User, or present Terms;
+- create, upload, store, publish or use in any other way Content without legally obtaining rights to perform these actions;
+- upload, store, publish, provide access to or use in any other way viruses, trojans and other malware;
+- try obtaining access to login and password of other User by any means, including deception, fraud, trust abuse, software cracks, etc.;
+- collect, process or publish personal data without complying with laws of the Russian Federation and other applicable laws and rules;
+- use the Services bypassing interfaces provided by Administrator, except when it is expressly permitted to do so in accordance with the separate agreement between Administrator and User;
+- place advertisements or other promotional materials, except when it is expressly permitted to do so in accordance with the separate agreement between Administrator and User;
+- upload data or place information which does not align with the purpose of the Services, infringes Users interests or is undesirable to be used in the Services for other reasons;
+- perform other acts aimed at violating normal functioning of the Services, rights of Administrator, other Users or third parties.
+
+3.7. Administrator may block or delete User access to any Service and take down User Content without prior notice and without explanation, e.g. if User violates rules and principles of international law, laws of the Russian Federation, other laws and rules applicable to User, present Terms, or rights of other Users or third parties.
+
+4. Copyright Policy
+
+4.1. All integral parts of the Services, including design, text, graphic objects, video, software, databases, sounds and other objects and their collections (“Services Content”), along with Content uploaded to the Services by Users or Administrator, are copyrighted by Users, Administrator, third parties, or part of public domain. All rights to these objects are reserved.
+
+4.2. Users are granted license to use Services Content only in the manner permitted by Services functionality and on conditions of keeping all applicable copyright notices and trademarks and providing an appropriate credit to authors and copyright holders, unless the opposite expressly required by the law or under the terms of separate agreement with Administrator. 
+
+4.3. Users are not allowed to submit to the Services any Content without copyright holder’s permission to do so. By submitting Content to the Services User confirms that he/she holds a valid intellectual property right which allows him/her to use this Content in the manner permitted by Services functionality, including the right to copy and distribute the Content.
+
+4.4. Unless directly stated by these Terms or existing laws or Russian Federation, no Content can be copied, modified, distributed, displayed in frame, published, downloaded, transferred, sold or used in any other way, as a whole or in part, except when its copyright owner gave his/her clear consent to the mentioned use of the Content.
+
+4.5. By submitting Content to the Services User grants to Administrator a worldwide, non-exclusive, royalty-free license to use this Content for the limited purpose of operating the Services. This licence continues while the Content is stored in the Services. Administrator reserves the right to store backup copies of User Content after its removal from the Services for the period necessitated by the Services architecture.
+
+4.6. By submitting Content to the Services User grants to other Users a non-exclusive license to use it in the manner permitted by Services functionality, except when it infringes copyright holder’s rights. User can widen license scope by expressly indicating permitted ways to use Content in the Content metadata.
+
+4.7. When submitting Content to the Services and its further use in the Services requires indication of the name of the creator, a copyright notice, a license notice or any other conditions of its use (‘attribution’), User must provide appropriate information in the Content metadata.
+
+4.8. Use of Services Content or Content in the manner not permitted by these Terms or not expressly permitted by the copyright’s holder is strictly forbidden. 
+
+4.9. In no case these Terms constitute a sale or copyright transfer of Services Content or Content. 
+
+
+5. Third-party Services and Content
+
+5.1. Services may contain links to other services (“Third-party Services”) or other content (“Third-party Content”) owned by or created by third parties and copyrighted under laws of the Russian Federation or other countries. 
+
+5.2. Administrator doesn’t check if Third-party Services and Content are accurate and in compliance with legal or any other requirements. Administrator is responsible neither for information or data placed in Third-party Services accessed by User from Services, nor for their accessibility and possible consequences of using them.
+
+5.3. Links to Third-party Services and Content and user manuals for them contained in the Services do not imply their support or endorsement by Administrator, except when it’s expressly indicated by Administrator. 
+
+
+6. Limitation of liability
+
+6.1. Services and their functionality, including all scripts, application, design, Services Content, and Content are provided “as is”. Administrator excludes all warranties about the Services or their specific functions and their fitness for a particular purpose. Administrator also does not make any commitments or promises about Services ability to provide any specific result.
+
+6.2. User agrees to use Services and Content at his own risk and accepts his full responsibility for all possible consequences, including responsibility for the damages to User or third party hardware and software, data losses or any other damages and losses. 
+
+6.3. Administrator does not pre-moderate or control User Content and does not take responsibility for User Content and User actions while using the Services. Administrator will respond to any requests about protection of rights and interests of Users and third parties only after receiving the relevant request at info@nextgis.com. Notices of alleged copyright infringement should comply with Article 15.7 of Federal law No 149-FZ “On information, information technologies and information security”.
+
+6.4. In no case Administrator and its employees will be liable for any pecuniary or non-pecuniary damages, physical harm or lost profits caused by use of Services or Content. 
+
+6.5. In no case Administrator and its employees will be liable for any damages, including data losses, or lost profits caused by Administrator blocking or deleting User access to Services, blocking or deleting User account, or removing User Content. 
+
+6.6. Administrator exercises reasonable care in keeping the Content secure and Services available for use. At the same time User accepts the risk of possible outages and malfunctions in Services and agrees that Administrator does not have technical means to predict their occurence, notice User about them in advance or  fully eliminate their possibility. The occurence of outages or malfunctions in Services, regardless of their reasons or consequences, can not serve as a basis for Administrator liability. 
+
+6.7. In case User uses Services on a free basis or on a paid basis but for a business purpose, the customer protection laws of the Russian Federation are not applicable to relationships between Administrator and User. 
+
+6.8. In all cases the liability of Administrator in accordance with Article 15 of Civil Code of the Russian Fereration is limited to 5 000 (five thousand) Russian rubles, and Administrator can be charged with it only if found guilty in his actions or failure to act.
+
+
+7. Miscellaneous
+
+7.1. These Terms are the agreement between Administrator and User regarding Services and Content, effective for the unlimited period of time. These Terms supersede and replace any prior agreements between Administrator and User regarding Services and Content.  
+
+7.2. These Terms and any action related thereto will be governed by the laws of the Russian Federation without regard to the location of User or his/her equipment. All claims arising out of or relating to these Terms or Services will be litigated exclusively in the courts located at Administrator’s place of registration.
+
+7.3. In case of any dispute relating to these Terms User and Administrator first shall seek to resolve them by conducting talks. If dispute is not resolved in this way, it shall be resolved using procedure set by the laws of the Russian Federation.
+
+7.4. These Terms are originally drafted in Russian language and may be provided to User for perusing in another language. If there is any inconsistency between Russian language and another language of the Terms, the Russian version will prevail to the extent of the inconsistency.
+
+7.5. If it turns out that a particular term is not enforceable, this will not affect any other terms.
+
+7.6. Administrator may modify/update these Terms from time to time without giving any prior notice. The most current version of the Terms is available at http://nextgis.com/terms. Administrator recommends Users to check this page for updates. By continuing to access or use the Services after Terms were modified/updated, User agrees to be bound by the updated Terms. 
+
+7.7. All questions, notices and claims regarding Services and Content, including the possible infringements, should be sent to info@nextgis.com or to the following postal address:
+
+“NextGIS” LLC
+Office 2, 41 Vavilova street,
+Moscow, 117312, Russia
