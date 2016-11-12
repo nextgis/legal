@@ -1,3 +1,3 @@
-# nextgis.com docs
+# nextgis.com
 
-Here you can find documents which regulate nextgis.com services.
+Here you can find legal documents which regulate nextgis.com services.
