@@ -1,4 +1,4 @@
-User Agreement for Web GIS Service
+﻿User Agreement for Web GIS Service
 
 http://www.nextgis.com/terms-webgis
 
@@ -73,10 +73,10 @@ Please read this User Agreement for Web GIS Service (“User Agreement”) caref
 
 4.2. Administrator has a right:
 4.2.1. To stop rendering Services to User temporarily or altogether: 
-during assembling works, repairs, maintanance and testing activities, as well as during failures and outages of any equipment used for providing Services to Users;
-if Administrator learns of any User actions violating laws of the Russian Federation and/or harming Administrator, other users or third parties;
-if User fails to pay for paid access in time;
-in other cases stipulated in User Agreement, Plans, NextGIS Terms of Service, Privacy Policy, rules and principles of international law, laws of the Russian Federation.
+- during assembling works, repairs, maintanance and testing activities, as well as during failures and outages of any equipment used for providing Services to Users;
+- if Administrator learns of any User actions violating laws of the Russian Federation and/or harming Administrator, other users or third parties;
+- if User fails to pay for paid access in time;
+- in other cases stipulated in User Agreement, Plans, NextGIS Terms of Service, Privacy Policy, rules and principles of international law, laws of the Russian Federation.
 4.2.2. To receive from User information required for execution of User Agreement.
 4.2.3. To subcontract third parties bearing full responsibility for their actions.
 4.2.4. To provide User with Trial period to get aquainted with Web GIS Service functionality and usability normally available only through paid access. Access to Services during Trial period is free.
