@@ -4,6 +4,7 @@ http://www.nextgis.com/terms-webgis
 
 Effective date: 18.07.2016
 
+This English version is a translation. Only the Russian version which can be found at http://nextgis.ru/terms-webgis is legally binding.
 
 Please read this User Agreement for Web GIS Service (“User Agreement”) carefully because it presents a public offer to enter into a legally binding agreement, made by Administrator in accordance with Article 438 of the Civil Code of the Russian Federation. By sending to Administrator a request to create Web GIS User signifies his/her acceptance of this User Agreement and agrees to be bound by it in accordance with Article 438 of the Civil Code of the Russian Federation.
 
