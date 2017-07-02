@@ -2,7 +2,7 @@ PRIVACY POLICY
 
 http://www.nextgis.com/privacy
 
-Effective date: 18.07.2016
+Effective date: 30.06.2017
 
 This English version is a translation. Only the Russian version which can be found at http://nextgis.ru/privacy is legally binding.
 
@@ -15,7 +15,7 @@ This Privacy Policy (the “Policy”) sets out the terms for processing of the 
 
 1.2. Hereinafter the Policy uses the meaning of terms and expressions pursuant to the Terms of Service or User Agreements and Contracts for the specific Services, unless the Policy directly specifies or implies otherwise. If the definition is not provided, terms and expressions shall be construed pursuant to the laws of the Russian Federation. 
 
-1.3. By using Services in any way User signifies his/her acceptance of this Policy and terms for processing of his/her Personal information set out in the Policy. If User does not agree with these terms  he/she should abstain from use of the Services.
+1.3. By using Services in any way User signifies his/her acceptance of this Policy and terms for processing of his/her Personal information set out in the Policy. If User does not agree with these terms he/she should abstain from use of the Services.
 
 1.4. The scope of the Policy is limited by the information processed during the use of the Services. Administrator does not control or takes any responsibility for the processing of the information by Third-party Services which can be accessed by User via links from the Services. 
 
@@ -25,6 +25,7 @@ This Privacy Policy (the “Policy”) sets out the terms for processing of the 
 2.1. User Personal information (the “Personal information”) in this Policy means the following information, including personal data:
 - mandatory information provided by User to Administrator during signup or authorization, including e-mail address, login and password to access the Services, and additional information which User can choose to provide to Administrator at his/her will either manually or by giving access to his/her accounts at other online resources;
 - information provided by User to Administrator during the use of the specific Services, including information required for creation of orders, agreements and invoices for paid Services;
+- information provided by User to Administrator during the use of feedback form;
 - data collected by Administrator in automatic mode according to User software settings, including but not limited to: Internet Protocol (IP) address, cookie information, browser (or other software used to access the Services) identification information, technical parameters of User software and hardware, date and time of accessing the Services, accessed pages, information uploaded and/or downloaded during the use of the Services, etc.;
 - information received by Administrator during execution of Terms of Service and User Agreements and Contracts for the specific Services, and/or necessary for performing obligations under the said documents.
 
@@ -91,9 +92,12 @@ such transfer is necessary for functioning of Services according to the Administ
 7.2. Personal information can be removed:
 - by User when editing Personal information in his/her account;
 - by Administrator when User requests to remove his/her account completely;
-- by Administrator when Administrator removes User account according to NextGIS Terms of Service or User Agreements and Contracts for the specific Services.
+- by Administrator when Administrator removes User account according to NextGIS Terms of Service or User Agreements and Contracts for the specific Services;
+- by Administrator when User withdraws his/her consent for processing of his/her personal data and this data is no longer required for the purposes outlined in this Policy. 
 
-7.3. Administrator is bound to remove Personal information from his servers not later than 6 (six) months after its edit/removal by User or User account removal, except for the cases when different term is required according to Russian federal laws.
+7.3. Administrator is bound to remove Personal information from his servers not later than:
+- 6 (six) months after its edit/removal by User or User account removal, except for the cases when different term is required according to Russian federal laws;
+- 30 (thirty) days after User withdraws his/her consent for processing of his/her personal data and this data is no longer required for the purposes outlined in this Policy.
 
 7.4. To enhance performance and user experience of Services Administrator can store logs with depersonalised data on User actions for 3 (three) years. 
 
