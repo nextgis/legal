@@ -1,8 +1,8 @@
-TERMS OF SERVICE
+﻿TERMS OF SERVICE
 
 http://www.nextgis.com/terms
 
-Effective date: 18.07.2016
+Effective date: 25.05.2018
 
 This English version is a translation. Only the Russian version which can be found at http://nextgis.ru/terms is legally binding.
 
@@ -18,7 +18,7 @@ Please read these Terms carefully because they present a public offer to enter i
 1.2. Administrator - “NextGIS” LLC, incorporated under the laws of Russian Federation and registered at: Novoryazanskaya str., 26, building 1, Moscow, 105066, Russia. 
 Administrator owns the Services and provides access to them for all interested parties according to the rules and principles of international law, laws of the Russian Federation, present Terms, User Agreements and Contracts for the Specific Services and Privacy Policy.
 
-1.3. User - an individual of 14 years old or older, who uses the Services in accordance with the present Terms.  User acting on behalf of a legal entity represents that he/she has the authority to enter into legally binding agreements on behalf of that entity. In that case the Terms bind both the User and the entity represented by him.
+1.3. User - an individual of 16 years old or older, who uses the Services in accordance with the present Terms.  User acting on behalf of a legal entity represents that he/she has the authority to enter into legally binding agreements on behalf of that entity. In that case the Terms bind both the User and the entity represented by him.
 
 1.4. Content - data, metadata, hypelinks, texts, audio and video materials, scripts, web maps, sensor data, graphic objects (raster and vector images), including cartographic products, maps, plans, Earth remote sensing and aerial survey data, or any other information placed and stored in Services by Administrator or User.
 
@@ -27,23 +27,23 @@ Administrator owns the Services and provides access to them for all interested p
 
 2.1. In order to use some Services and its Content User needs to sign up for user account (NextGIS ID) first.
 
-2.2. Signing up is strictly voluntary. By signing up for NextGIS ID User confirms that he is at least 14 years old and has the necessary authority in case of using the Services on behalf of an entity.
+2.2. Signing up is strictly voluntary. By signing up for NextGIS ID User confirms that he is at least 16 years old and has the necessary authority in case of using the Services on behalf of an entity.
 
-2.3. In order to sign up for NextGIS ID User provides to Administrator necessary, correct and up-to-date personal information, including e-mail address (it must be unique for each User), login and password. Signup form can request User for additional information, including his/her first and last name. User may enter the requested information manually or by providing Administrator with access to his/her user accounts in other online services. It is expressly forbidden to provide incorrect personal information or sign up as other person (create “fake account”).
+2.3. In order to sign up for NextGIS ID User provides to Administrator necessary, correct and up-to-date personal information, including e-mail address (it must be unique for each User), login and password. Signup form can request User for additional information, including his/her first and last name, phone number and other information which User may provide at his/her discretion. User may enter the requested information manually or by providing Administrator with access to his/her user accounts in other online services. It is expressly forbidden to provide incorrect personal information or sign up as other person (create “fake account”).
 
 2.4. In some cases Administrator may ask User to verify personal information provided during signup process, and to that purpose ask User to show some form of ID documents. The User refusal to provide Administrator with requested documents can be construed as providing of incorrect personal information. In case User personal information provided during signup process can’t be verified with documents Administrator reserves the right to refuse User access to NextGIS ID and Services. 
 
-2.5. After providing necessary information User must activate an account by following instructions sent to his/her email. After successful activation User’s NextGIS ID is created. User is forbidden to create more than one NextGIS ID.
+2.5. After providing necessary information User must activate an account by following instructions sent to his/her email. After successful activation User’s NextGIS ID is created. 
 
-2.6. All User information kept in NextGIS ID is stored and processed by Administrator in accordance with Privacy Policy. User is responsibile for timely updates of information kept in his/her NextGIS ID in case of any changes.
+2.6. All User information kept in NextGIS ID is stored and processed by Administrator in accordance with Privacy Policy. User is responsible for timely updates of information kept in his/her NextGIS ID in case of any changes.
 
-2.7. Login and password selected by User are considered to be necessary and sufficient information to access the Services, unless stated otherwise in User Agreements or Contracts for the specific Services. User is not allowed to transfer his/her login and password to any third party and is fully responsible for their safekeeping and selecting the way they are kept. If User can’t prove otherwise any action commited using his/her login and password are considered to be commited by the User. 
+2.7. Login and password selected by User are considered to be necessary and sufficient information to access the Services, unless stated otherwise in User Agreements or Contracts for the specific Services. User is not allowed to transfer his/her login and password to any third party and is fully responsible for their safekeeping and selecting the way they are kept. If User can’t prove otherwise any action committed using his/her login and password are considered to be committed by the User. 
 
 2.8. In case of unauthorized access to User login, password or other account unformation by third parties, or in case of other User account data leak, either occured or possible, he/she must inform Administrator about it immediately via email info@nextgis.com and perform all actions advised by Administrator, including login/password change or other actions aimed at neutralization of account data leak. 
 
 2.9. User is expressly forbidden to use login and password of other registered User to access the Services. 
 
-2.10. User is allowed to: (a) edit or delete any information in his/her NextGIS ID, except for deletion of login, password and email; (b) delete his/her NextGIS ID by sending a corresponding request to Administrator. NextGIS ID is deleted by Administrator in 24 hours following User’s request for account delete. 
+2.10. User is allowed to: (a) edit or delete any information in his/her NextGIS ID, except for deletion of login, password and email; (b) delete his/her NextGIS ID by sending a “Delete account” request to Administrator. NextGIS ID is deleted by Administrator within 24 hours of User’s request.
 
 2.11. Administrator may block or delete User account without prior notice and without explanation, e.g. for violation of the present Terms by User. After User account is deleted he/she loses access to the Services and its Content which are available only for registered Users.
 
@@ -59,7 +59,7 @@ Administrator owns the Services and provides access to them for all interested p
 
 3.2. Administrator reserves the right to change, amend and update the Services at any moment, without prior notice of the Users. After release of the new version Administrator doesn’t guarantee stable or continuing functioning of the previous version of the Service. 
 
-3.3. Administrator informs Users about technical, organisational and commercial terms and conditions for use of the Services, including description of Services functionality: (a) by publishing this information at the dedicated sections of nextgis.com and/or nextgis.ru websites, (b) by publishing this information at other online resourses controlled by Administrator; (c) by including this information in User Agreements or Contracts for the specific Services.
+3.3. Administrator informs Users about technical, organisational and commercial terms and conditions for use of the Services, including description of Services functionality: (a) by publishing this information at the dedicated sections of nextgis.com and/or nextgis.ru websites, (b) by publishing this information at other online resources controlled by Administrator; (c) by including this information in User Agreements or Contracts for the specific Services.
 
 3.4. Administrator reserves the right to set and change at his own discretion any rules and limits for use of the Services, including those related to: the amount of disc space for User Content storage; the number of objects in User Content; the number of requests to User Content per time unit; the User Content permissions settings. When it is not forbidden by law these rules and limits can be different for different User categories.
 
@@ -95,7 +95,7 @@ Administrator owns the Services and provides access to them for all interested p
 
 4.7. When submitting Content to the Services and its further use in the Services requires indication of the name of the creator, a copyright notice, a license notice or any other conditions of its use (‘attribution’), User must provide appropriate information in the Content description or metadata.
 
-4.8. Use of Services Content or Content in the manner not permitted by these Terms or not expressly permitted by the copyright’s holder is strictly forbidden.
+4.8. Use of Services Content or Content in the manner not permitted by these Terms or not expressly permitted by the copyright holder is strictly forbidden.
 
 4.9. In no case these Terms constitute a sale or copyright transfer of Services Content or Content. 
 
@@ -121,11 +121,11 @@ Administrator owns the Services and provides access to them for all interested p
 
 6.5. In no case Administrator and its employees will be liable for any damages, including data losses, or lost profits caused by Administrator blocking or deleting User access to Services, blocking or deleting User account, or removing User Content. 
 
-6.6. Administrator exercises reasonable care in keeping the Content secure and Services available for use. At the same time User accepts the risk of possible outages and malfunctions in Services and agrees that Administrator does not have technical means to predict their occurence, notice User about them in advance or  fully eliminate their possibility. The occurence of outages or malfunctions in Services, regardless of their reasons or consequences, can not serve as a basis for Administrator liability. 
+6.6. Administrator exercises reasonable care in keeping the Content secure and Services available for use. At the same time User accepts the risk of possible outages and malfunctions in Services and agrees that Administrator does not have technical means to predict their occurrence, notice User about them in advance or  fully eliminate their possibility. The occurrence of outages or malfunctions in Services, regardless of their reasons or consequences, can not serve as a basis for Administrator liability. 
 
 6.7. In case User uses Services on a free basis or on a paid basis but for a business purpose, the customer protection laws of the Russian Federation are not applicable to relationships between Administrator and User. 
 
-6.8. In all cases the aggregate liability of Administrator in accordance with Article 15 of Civil Code of the Russian Fereration is limited to 5 000 (five thousand) Russian rubles, and Administrator can be charged with it only if found guilty in his actions or failure to act.
+6.8. In all cases the aggregate liability of Administrator in accordance with Article 15 of Civil Code of the Russian Federation is limited to 5 000 (five thousand) Russian rubles, and Administrator can be charged with it only if found guilty in his actions or failure to act.
 
 
 7. Miscellaneous
