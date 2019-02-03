@@ -1,10 +1,10 @@
 USER AGREEMENT FOR GEODATA SERVICE
 
-Effective date: 22.01.2018
+Effective date: 04.02.2019
 
 This English version is a translation. Only the Russian version which can be found at http://nextgis.ru/terms-data is legally binding.
 
-Please read this User Agreement for Geodata Service (“User Agreement”) carefully because it presents a public offer to enter into a legally binding agreement, made by Administrator in accordance with Article 438 of the Civil Code of the Russian Federation. By creating an Order User signifies his/her acceptance of this User Agreement and agrees to be bound by it in accordance with Article 438 of the Civil Code of the Russian Federation.
+Please read this User Agreement for Geodata Service (“User Agreement”) carefully because it presents a public offer to enter into a legally binding agreement, made by Administrator in accordance with Article 438 of the Civil Code of the Russian Federation. By paying for the Services User signifies his/her acceptance of this User Agreement and agrees to be bound by it in accordance with Article 438 of the Civil Code of the Russian Federation.
 
 
 1. Definitions
@@ -38,7 +38,9 @@ Providing an access to NextGIS Geodata Service on a regular basis includes: acti
 
 2.2. The price of the Services is determined by the Order and fixed in the Administrator’s Invoice which is considered to be an integral part of the User Agreement. Administrator draws the Invoice in electronic form within 2 (two) working days after receipt of User Order. 
 
-2.3. Administrator delivers the Services not later than 5 (five) working days after the payment date. Administrator may postpone the delivery date following User request to do so. Administrator reserves the right to suspend User access to Geodata Service after the paid access period has expired.
+2.3. Administrator delivers the Services not later than 10 (ten) working days after the payment date. Administrator may postpone the delivery date following User request to do so. Administrator reserves the right to suspend User access to Geodata Service after the paid access period has expired.
+
+2.4. In case the Services include a request for data from public authorities, the term for the Services delivery mentioned in Clause 2.3 lengthens by the period required by the appropriate public authority to complete such request. 
 
 
 3. Payments and Acceptance
@@ -92,6 +94,8 @@ Providing an access to NextGIS Geodata Service on a regular basis includes: acti
 5.1.2. By any of the Parties, in case another Party violates terms of this User Agreement or NextGIS Terms of Service, with prior notification of another Party.
 
 5.2. In case of early termination of User Agreement, if the Services have not been delivered in full, Administrator may refund Customer’s payments for the undelivered Services. Refunds are made on the basis of Customer’s request, non-cash only. Refunds can’t be made to third parties. The refunds policy is the same for individual Customers and legal entities.
+
+5.3. Administrator does not refund Customer’s payments for the Services undelivered on account of public authorities not completing or late completing data requests made by Administrator, in case Services can not be delivered prior to receiving the requested data from public authorities. 
 
 
 6. Warranties and Liability of the Parties
