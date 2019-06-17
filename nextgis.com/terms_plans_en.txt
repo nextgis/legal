@@ -2,7 +2,7 @@ USER AGREEMENT FOR NEXGIS SERVICES
 
 http://www.nextgis.com/terms-plans
 
-Effective date: 22.01.2018
+Effective date: 17.06.2019
 
 This English version is a translation. Only the Russian version which can be found at http://nextgis.ru/terms-plans is legally binding.
 
@@ -19,7 +19,7 @@ Please read this User Agreement for NextGIS Services (“User Agreement”) carefull
 
 1.4. Customer – User or another person represented by User, who have paid for NextGIS Services in accordance with the present User Agreement. All User Agreement provisions addressed to User are addressed in full to the Customer. 
 
-1.5. Plan – description of Services parameters, with indication of their volume options during the defined period and their price dependant on the selected volume option. Plans are published at http://nextgis.com/pricing and can be selected by User while creating an Order. Plans descriptions are set out in Appendix 1 to this User Agreement. Administrator may modify Plans from time to time without giving any prior notice. 
+1.5. Plan – description of Services parameters, with indication of their volume options during the defined period and their price dependant on the selected volume option. Plans are published at http://nextgis.com/pricing-base and can be selected by User while creating an Order. Plans descriptions are set out in Appendix 1 to this User Agreement. Administrator may modify Plans from time to time without giving any prior notice. 
 
 1.6. Dashboard – section of Administrator’s website available at my.nextgis.com and designed for creation and management of User account, Services Orders and Services management. 
 
@@ -71,7 +71,7 @@ Term of free Services is determined by the Plan which contains free access condi
 4.1. Administrator is obligated:
 4.1.1. To deliver Services to User in accordance with the present User Agreement, NextGIS Terms of Service, Privacy Policy, rules and principles of international law, laws of the Russian Federation.
 4.1.2. To take all possible steps to eliminate the Services malfunctions, interruptions and level decreases, and to notify User in advance about upcoming interruptions of the Services, when possible.
-4.1.3. To notify User about upcoming changes in Plans by publishing them at http://nextgis.com/pricing not less than 10 (ten) days in advance. 
+4.1.3. To notify User about upcoming changes in Plans by publishing them at http://nextgis.com/pricing-base or by email not less than 10 (ten) days in advance. 
 4.1.4. To provide User with all necessary information about Services prices and terms of use.  
 
 4.2. Administrator has a right:
