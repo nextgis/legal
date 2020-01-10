@@ -2,7 +2,7 @@
 
 http://www.nextgis.com/terms
 
-Effective date: 25.05.2018
+Effective date: 10.01.2020
 
 This English version is a translation. Only the Russian version which can be found at http://nextgis.ru/terms is legally binding.
 
@@ -147,5 +147,5 @@ Administrator owns the Services and provides access to them for all interested p
 7.8. All questions, notices and claims regarding Services and Content, including the possible infringements, should be sent to info@nextgis.com or to the following postal address:
 
 “NextGIS” LLC
-Office 2, 41 Vavilova street,
-Moscow, 117312, Russia
+Office 201, 23B bld. 20 Novaya Basmannaya street
+Moscow, 107078, Russia

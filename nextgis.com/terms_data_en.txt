@@ -1,6 +1,6 @@
 USER AGREEMENT FOR GEODATA SERVICE
 
-Effective date: 04.02.2019
+Effective date: 10.01.2020
 
 This English version is a translation. Only the Russian version which can be found at http://nextgis.ru/terms-data is legally binding.
 
@@ -146,8 +146,8 @@ Limited liability company ìNextGISî
 Tax number (»ÕÕ/ œœ): 7701921884/770101001
 State registration number (Œ√–Õ): 1117746447610
 Legal address: Novoryazanskaya str., 26, building 1, Moscow, Russia
-Mailing address: Vavilova str., 41, office 2, Moscow, 117312, Russia
+Mailing address: Office 201, 23B bld. 20 Novaya Basmannaya street, Moscow, 107078, Russia
 CEO: Maxim Y. Dubinin
-Phone: +7968-730-5252
+Phone: +7 968 730 5252
 Email: info@nextgis.com
 

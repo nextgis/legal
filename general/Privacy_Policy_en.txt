@@ -2,7 +2,7 @@
 
 http://www.nextgis.com/privacy
 
-Effective date: 25.05.2018
+Effective date: 10.01.2020
 
 This English version is a translation. Only the Russian version which can be found at http://nextgis.ru/privacy is legally binding.
 
@@ -123,5 +123,5 @@ for protection of rights and interests of Administrator and third parties in cas
 9.1. All questions, notices and claims regarding the present Policy and processing of User Personal information by Administrator should be sent to info@nextgis.com or to the following postal address:
 
 “NextGIS” LLC
-Office 2, 41 Vavilova street,
-Moscow, 117312, Russia
+Office 201, 23B bld. 20 Novaya Basmannaya street
+Moscow, 107078, Russia

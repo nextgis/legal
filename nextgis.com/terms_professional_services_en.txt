@@ -1,10 +1,12 @@
-USER AGREEMENT FOR NEXTGIS PROFESSIONAL SERVICES
+﻿USER AGREEMENT FOR NEXTGIS PROFESSIONAL SERVICES
 
 http://nextgis.com/terms-professional-services/
 
-Effective date: 14.03.2018
+Effective date: 10.01.2020
 
-Please read this User Agreement for NextGIS Professional Services (“User Agreement”) carefully because it presents a public offer to enter into a legally binding agreement, made by Administrator in accordance with Article 438 of the Civil Code of the Russian Federation. By creating an Order User signifies his/her acceptance of this User Agreement and agrees to be bound by it in accordance with Article 438 of the Civil Code of the Russian Federation.
+This English version is a translation. Only the Russian version which can be found at http://nextgis.ru/terms-professional-services is legally binding.
+
+Please read this User Agreement for NextGIS Professional Services (“User Agreement”) carefully because it presents a public offer to enter into a legally binding agreement, made by Administrator in accordance with Article 438 of the Civil Code of the Russian Federation. By paying for the Services User signifies his/her acceptance of this User Agreement and agrees to be bound by it in accordance with Article 438 of the Civil Code of the Russian Federation.
 
 
 1. Definitions
@@ -137,11 +139,12 @@ The Order is created electronically, via email.
 
 
 8. Administrator details:
+
 Limited liability company “NextGIS”
 Tax number (ИНН/КПП): 7701921884/770101001
 State registration number (ОГРН): 1117746447610
 Legal address: Novoryazanskaya str., 26, building 1, Moscow, Russia
-Mailing address: Vavilova str., 41, office 2, Moscow, 117312, Russia
+Mailing address: Office 201, 23B bld. 20 Novaya Basmannaya street, Moscow, 107078, Russia
 CEO: Maxim Y. Dubinin
-Phone: +7968-730-5252
+Phone: +7 968 730 5252
 Email: info@nextgis.com
