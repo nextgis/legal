@@ -2,7 +2,7 @@
 
 http://www.nextgis.com/privacy
 
-Effective date: 10.01.2020
+Effective date: 06.08.2021
 
 This English version is a translation. Only the Russian version which can be found at http://nextgis.ru/privacy is legally binding.
 
@@ -26,7 +26,7 @@ This Privacy Policy (the “Policy”) sets out the terms for processing of the 
 - mandatory information provided by User to Administrator during signup or authorization. This information includes User’s e-mail address, username and password; 
 - additional information which User can choose to provide to Administrator at his/her will either manually or by giving access to his/her accounts at other online resources. Such additional information may include: name, last name, phone number, company affiliation, country of residence, profile photo, links to User social media accounts, etc.;
 - information provided by User to Administrator itself or through third party service providers during the use of the specific Services, including information provided through feedback forms or required for creation and execution of orders, agreements and invoices for paid Services, such as name, last name, address, phone number, occupation, company affiliation, billing details, additional email addresses, support requests, services feedback, etc.;
-- data collected by Administrator itself or through third party service providers in automatic mode according to User software settings, including but not limited to: operating system, Internet Protocol (IP) address, cookie information, browser (or other software used to access the Services) identification information, technical parameters of User software and hardware, date and time of accessing the Services, accessed pages, information uploaded and/or downloaded during the use of the Services, User actions (clicks on certain links, accessed features, etc.).
+- data collected by Administrator itself or through third party service providers in automatic mode according to User software settings, including but not limited to: operating system, Internet Protocol (IP) address, cookie information, browser (or other software used to access the Services) identification information, technical parameters of User software and hardware, date and time of accessing the Services, accessed pages, information uploaded and/or downloaded during the use of the Services, User actions (clicks on certain links, accessed features, etc.), device location data (including data collected in the background).
 
 2.2. Administrator does not verify Personal information provided to him and assumes the User acts in good faith, with due deliberation and applies reasonable efforts to keep his/her Personal information up-to-date. 
 
