@@ -1,153 +1,87 @@
-USER AGREEMENT FOR GEODATA SERVICE
+USER AGREEMENT FOR NEXTGIS GEODATA SERVICE
 
-Effective date: 10.01.2020
+PLEASE READ THIS AGREEMENT CAREFULLY BEFORE USING NEXTGIS GEODATA SERVICE. BY USING NEXTGIS GEODATA SERVICE, USER SIGNIFIES ITS ASSENT TO AND ACCEPTANCE OF THIS AGREEMENT AND ACKNOWLEDGES IT HAS READ AND UNDERSTANDS THIS AGREEMENT. AN INDIVIDUAL ACTING ON BEHALF OF AN ENTITY REPRESENTS THAT HE OR SHE HAS THE AUTHORITY TO ENTER INTO THIS AGREEMENT ON BEHALF OF THAT ENTITY. IF USER DOES NOT ACCEPT THE TERMS OF THIS AGREEMENT, THEN IT MUST NOT USE NEXTGIS GEODATA SERVICE. 
 
-This English version is a translation. Only the Russian version which can be found at http://nextgis.ru/terms-data is legally binding.
-
-Please read this User Agreement for Geodata Service (ìUser Agreementî) carefully because it presents a public offer to enter into a legally binding agreement, made by Administrator in accordance with Article 438 of the Civil Code of the Russian Federation. By paying for the Services User signifies his/her acceptance of this User Agreement and agrees to be bound by it in accordance with Article 438 of the Civil Code of the Russian Federation.
-
+This User Agreement for NextGIS Geodata Service, including all referenced appendices and documents ("User Agreement"), is between NextGIS O√ú ("Administrator") and the user of NextGIS Geodata Service who accepts the terms of this Agreement (‚ÄúUser‚Äù). The effective date of this Agreement (‚ÄúEffective Date‚Äù) is the earlier of the date that User signs or accepts this Agreement, or the date that User starts using NextGIS Geodata Service.
 
 1. Definitions
 
-1.1. NextGIS Geodata Service (ìGeodata Serviceî, ìServiceî) - web service ìNextGIS Dataî owned by Administrator and available at http://data.nextgis.com/, used for ordering and downloading of spatial datasets prepared by Administrator. 
+1.1. NextGIS Geodata Service (‚ÄúGeodata Service‚Äù, ‚ÄúService‚Äù) - web service ‚ÄúNextGIS Data‚Äù available at https://data.nextgis.com/, used for ordering and downloading of spatial datasets prepared or distributed by Administrator. 
 
-1.2. Administrator - ìNextGISî LLC, incorporated under the laws of Russian Federation and registered at: Novoryazanskaya str., 26, building 1, Moscow, 105066, Russia. 
+1.2. Administrator - NextGIS O√ú, incorporated under the laws of Estonia and registered at: √ïism√§e tee 149-1, Tallinn, Harjumaa, 13518, Estonia.
 
-1.3. User - individual of 18 years old or older, whoís obtained NextGIS ID and uses Geodata Service in accordance with the present User Agreement. User acting on behalf of another person (individual or legal entity) represents that he/she has the authority to enter into legally binding agreements on behalf of that person. In that case User Agreement binds both the User and the person represented by User.
+1.3. User - an individual of 16 years old or older, who has obtained NextGIS ID and uses Geodata Service in accordance with the present User Agreement. User acting on behalf of another person (an individual or a legal entity) confirms that he/she has the authority to enter into legally binding agreements on behalf of that person. In that case the User Agreement binds both User and the person represented by User.
 
-1.4. Customer ñ User or another person represented by User, who have paid for the Services in accordance with the present User Agreement. All User Agreement provisions addressed to User are addressed in full to the Customer. 
+1.4. Customer ‚Äì User or another person represented by User, who have paid for the Services in accordance with the present User Agreement. All User Agreement provisions addressed to User are addressed in full to the Customer. 
 
-1.5. Dashboard ñ section of Administratorís website available at my.nextgis.com and designed for creation and management of User account, Services Orders and Services management. 
+1.5. Dashboard ‚Äì a web service available at https://my.nextgis.com and designed for creation and management of User‚Äôs account and User‚Äôs Orders.
 
-1.6. Order ñ list of parameters of the Services selected by User, including:
+1.6. Order ‚Äì a list of geodata parameters selected by User, including:
 - name of a spatial dataset;
 - legal (source, license) and technical (geometry, format, layers, coordinate system, additional data) parameters of a spatial dataset;
-- single/regular access to a spatial dataset;
-- access period to Geodata Service and update frequency of a spatial dataset (in case of a regular access to a spatial dataset);
-- total price of the Services.
-The Order is created electronically, via Geodata Service web interface (order and payment forms, feedback forms, etc.), or via Dashboard, or via email.
+- total price for the Order.
+The Order is created electronically, via Geodata Service interface (order and payment forms, feedback forms, etc.), or via Dashboard, or via email.
 
-1.7. In case User Agreement contains terms not defined in this Section they must be construed in accordance with User Agreement text. If it doesnít provide unambiguous meaning, they shall be construed: first, in accordance with NextGIS Terms of Service available at http://nextgis.com/terms and Privacy Policy available at http://nextgis.com/privacy; second, in accordance with rules and principles of international law; third, in accordance with laws of the Russian Federation.
+1.7. In case User Agreement contains terms not defined in this Section they must be construed in accordance with User Agreement text. If it doesn‚Äôt provide unambiguous meaning, they shall be construed: first, in accordance with NextGIS Terms of Service available at https://nextgis.com/terms and Privacy Policy available at https://nextgis.com/privacy; second, in accordance with laws of Estonia.
 
+2. General Terms
 
-2. Agreement Subject, Price and Term
+2.1. User creates an Order for a spatial dataset and pays for it via bank transfer or via online payment systems or other payment options (including third-party app stores). 
 
-2.1. Administrator delivers the services to provide User with an access to NextGIS Geodata Service on a single or regular basis (the ìServicesî), and User accepts and pays for the Services on the terms of present User Agreement. 
-Providing an access to NextGIS Geodata Service on a single basis includes: activating User access to Geodata Service, generating the ordered spatial dataset and providing a download link for it via email or Dashboard.
-Providing an access to NextGIS Geodata Service on a regular basis includes: activating User access to Geodata Service, generating the first version of the ordered spatial dataset and providing a download link for it via email or Dashboard.
+2.2. Administrator fulfills User‚Äôs Order by activating User access to Geodata Service, preparing the ordered spatial dataset or requesting it from the owner, and providing a download link for it via email or Dashboard.
 
-2.2. The price of the Services is determined by the Order and fixed in the Administratorís Invoice which is considered to be an integral part of the User Agreement. Administrator draws the Invoice in electronic form within 2 (two) working days after receipt of User Order. 
+2.3. Administrator fulfills User‚Äôs Order not later than 10 (ten) working days after the payment date. Administrator may postpone the delivery date following User‚Äôs request to do so. 
 
-2.3. Administrator delivers the Services not later than 10 (ten) working days after the payment date. Administrator may postpone the delivery date following User request to do so. Administrator reserves the right to suspend User access to Geodata Service after the paid access period has expired.
+2.4. In case the Order involves a request for data from public authorities, the term for the Order fulfillment mentioned in Clause 2.3 lengthens by the period required by the appropriate public authority to complete such request. 
 
-2.4. In case the Services include a request for data from public authorities, the term for the Services delivery mentioned in Clause 2.3 lengthens by the period required by the appropriate public authority to complete such request. 
+3.    Termination of User Agreement and Refunds Policy
 
+3.1. This User Agreement may be terminated:
+3.1.1. By both Parties agreeing to it, at any time.
+3.1.2. By any of the Parties, in case another Party violates terms of this User Agreement or NextGIS Terms of Service, without prior notification of another Party.
 
-3. Payments and Acceptance
+3.2. In case of early termination of this User Agreement Administrator may refund User‚Äôs payments for the unfulfilled Orders. Refunds for the already fulfilled Orders can‚Äôt be made. Refunds are made on the basis of User‚Äôs request, non-cash only. Refunds can‚Äôt be made to third parties. The refunds policy is the same for individual Users and legal entities.
 
-3.1. Customer pays for the Services by settling the Administratorís Invoice: 
-- via bank transfer from Customerís bank account to Administratorís bank account.
-- via online payment systems or other payment options (including third-party app stores) using links in Geodata Service web interface. 
+3.3. Administrator does not refund User‚Äôs payments for the Orders unfulfilled on account of public authorities not completing or late completing data requests made by Administrator, in case the Order can not be fulfilled prior to receiving the requested data from public authorities. 
 
-3.2. Customer pays for the Services within 5 (five) working days after receipt of the Invoice. All payments under this Agreement are VAT-exempt according to Chapter 26.2 of the Tax Code of the Russian Federation.
+4. Warranties and Liabilities of the Parties
 
-3.3. The date of receipt of due amounts to Administratorís bank account shall be regarded as the date of payment. 
+4.1. For the duration of this User Agreement Administrator shall exercise reasonable care in keeping Geodata Service available for use. At the same time User accepts the risk of possible outages and malfunctions in Geodata Service and agrees that Administrator does not have technical means to predict their occurrence, notice User about them in advance or fully eliminate their possibility. The occurrence of outages or malfunctions, regardless of their reasons or consequences, can not serve as a basis for Administrator liability. 
 
-3.4. For accounting purposes Administrator shall send the Acceptance Act to Customer - legal entity after the delivery of the Services. The Act shall be sent to the email indicated in the Customer Dashboard or in Customerís last Order.
+4.2. Geodata Service and its functionality are provided ‚Äúas is‚Äù. Except for guarantees specifically indicated in this User Agreement Administrator excludes all direct or indirect warranties about Geodata Service or its specific functions and their fitness for a particular purpose.
 
-3.5. Customer shall sign the Acceptance Act and send signed copy of the Acceptance Act, or his grounds for rejection of signing the Acceptance Act, to info@nextgis.com within 5 (five) working days after its receipt. If the grounds for rejection of signing the Acceptance Act are not received by Administrator within the specified period, the Act shall be deemed signed and the Services shall be considered delivered in full and accepted by the Customer.
+4.3.  The Parties shall incur a liability for the infringement of terms of this User Agreement in accordance with the User Agreement and the laws of Estonia. 
 
-3.6.  In case Customerís grounds for rejection of signing the Acceptance Act will be deemed valid, Administrator shall send the corrected Act to the Customer within 3 (three) working days after the receipt of the grounds. Customer shall send his grounds for rejection of signing of the corrected Act within 1 (one) working day after its receipt, otherwise the corrected Act shall be deemed signed and the Services shall be considered delivered in full and accepted by the Customer.
+4.4. In no case Administrator shall be liable for: –∞) any actions or failures to act caused by User‚Äôs and/or third parties‚Äô actions or failure to act; b) any User‚Äôs and/or third parties‚Äô losses irrespective of Administrator‚Äôs ability to predict them; c) use of the selected way of payment for the Order (or inability to do so), and all possible consequences of these User actions, as well as use of any means of communication by Users and/or third parties (or their inability to do so).
 
-3.7. In case Customer needs an original of the signed Act, then after the receipt of the Act he shall forward to the Administrator two original copies of the Act signed on behalf of the Customer. After their receipt the Administrator shall sign them and send one copy back to the Customer within 5 (working) days. 
+4.5. In no case Administrator and its employees will be liable for any damages, including data losses, or lost profits caused by use of Geodata Service or Administrator blocking or deleting User access to Geodata Service, blocking or deleting User account. 
 
+4.6. Neither Party will be liable for any delay or failure to meet its obligations under this User Agreement due to circumstances beyond its reasonable control, and the deadline for performance of obligations will be extended for the duration of such circumstances. In the event Administrator is prevented from performing its obligations under this User Agreement due to circumstances beyond its reasonable control, it will as soon as possible (but not later than within 5 (five) working days) notify User about them and about their expected duration via email or by publishing this information at Administrator‚Äôs website. Circumstances beyond reasonable control of the Parties include but are not limited to war, riot, insurrection, civil commotion, labor strikes or lockouts, shortages, power outages, fire, flood, earthquake or storm, as well as regulations and actions of government bodies entered into legal force after the Effective date and making performance of obligations under User Agreement impossible. If circumstances beyond reasonable control of the Parties and/or their consequences last more than thirty calendar days in succession, the User Agreement may be terminated at any time by any Party sending written notification to another Party.
 
-4. Rights and Obligations of the Parties
+4.7. The liability of Administrator for the failure to perform obligations in accordance with this User Agreement may not exceed the Order price. 
 
-4.1. Administrator is obligated:
-4.1.1. To deliver Services to User in accordance with the present User Agreement, NextGIS Terms of Service, Privacy Policy, rules and principles of international law, laws of the Russian Federation.
-4.1.2. To take all possible steps to eliminate Geodata Service malfunctions, interruptions and level decreases, and to notify User in advance about upcoming interruptions of Geodata Service, when possible.
-4.1.3. To provide User with all necessary information about Geodata Service prices and terms of use.  
+5. Miscellaneous
 
-4.2. Administrator has a right:
-4.2.1. To stop delivery of the Services to User temporarily or altogether: 
-- during assembling works, repairs, maintenance and testing activities, as well as during failures and outages of any equipment used for providing Services to Users;
-- if Administrator learns of any User actions violating laws of the Russian Federation and/or harming Administrator, other users or third parties;
-- if User fails to pay for paid access in time;
-- in other cases stipulated in User Agreement, NextGIS Terms of Service, Privacy Policy, rules and principles of international law, laws of the Russian Federation.
-4.2.2. To receive from User information required for execution of User Agreement.
-4.2.3. To subcontract third parties bearing full responsibility for their actions.
+5.1. This User Agreement is concluded between Administrator and User regarding use of Geodata Service. This User Agreement is made effective for the unlimited period of time and supersedes and replaces any prior agreements between Administrator and User regarding use of Geodata Service.
 
-4.3. User is obligated:
-4.3.1. To use Geodata Service in accordance with the present User Agreement, NextGIS Terms of Service, Privacy Policy, rules and principles of international law, laws of the Russian Federation.
+5.2. This User Agreement and any action related thereto will be governed by the laws of Estonia without regard to the location of User or his/her equipment. All claims arising out of or relating to this User Agreement will be litigated exclusively in the courts located at Administrator‚Äôs place of registration. 
 
-4.4. User has a right:
-4.4.1. To use Geodata Service for commercial or non-commercial purposes.
-4.4.2. To receive from Administrator all necessary information about Geodata Service prices and terms of use.
-4.4.3. To ask Administrator any questions regarding level and quality of the Services.
+5.3. In case of any dispute relating to this User Agreement User and Administrator first shall seek to resolve them by conducting talks. If a dispute is not resolved in this way, it shall be resolved using procedure set by the laws of Estonia. 
 
+5.4. If it turns out that a particular term of User Agreement is not enforceable, this will not affect any other terms.
 
-5. Termination of User Agreement and Refunds Policy
+5.5. Administrator may modify/update this User Agreement from time to time without giving any prior notice. The most current version of the Terms is available at https://nextgis.com/terms-data. Administrator recommends Users to check this page for updates. By continuing to use Geodata Service after the User Agreement was modified/updated, User agrees to be bound by the updated User Agreement. 
 
-5.1. This User Agreement may be terminated:
-5.1.1. By both Parties agreeing to it, at any time.
-5.1.2. By any of the Parties, in case another Party violates terms of this User Agreement or NextGIS Terms of Service, with prior notification of another Party.
+5.6. All questions, notices and claims arising from User Agreement shall be sent: 
+- to User‚Äôs email address indicated in Dashboard or in the Order form, when it is addressed to User, 
+- to data@nextgis.com when it is addressed to Administrator. 
 
-5.2. In case of early termination of User Agreement, if the Services have not been delivered in full, Administrator may refund Customerís payments for the undelivered Services. Refunds are made on the basis of Customerís request, non-cash only. Refunds canít be made to third parties. The refunds policy is the same for individual Customers and legal entities.
+5.7. User and Administrator may at any moment enter into a bilateral Contract governing use of Geodata Service. In this case terms of bilateral Contract shall supersede terms of the present User Agreement.
 
-5.3. Administrator does not refund Customerís payments for the Services undelivered on account of public authorities not completing or late completing data requests made by Administrator, in case Services can not be delivered prior to receiving the requested data from public authorities. 
+6. Administrator's details:
 
-
-6. Warranties and Liability of the Parties
-
-6.1. For the duration of User Agreement Administrator shall exercise reasonable care in keeping Geodata Service available for use. At the same time User accepts the risk of possible outages and malfunctions in Geodata Service and agrees that Administrator does not have technical means to predict their occurence, notice User about them in advance or  fully eliminate their possibility. The occurrence of outages or malfunctions, regardless of their reasons or consequences, can not serve as a basis for Administrator liability. 
-
-6.2. Geodata Service and its functionality are provided ìas isî. Except for guarantees specifically indicated in this User Agreement Administrator excludes all direct or indirect warranties about Geodata Service or its specific functions and their fitness for a particular purpose.
-
-6.3.  The Parties shall incur a liability for the infringement of terms of this User Agreement in accordance with the User Agreement and the laws of Russian Federation. 
-
-6.4. In no case Administrator shall be liable for: ‡) any actions or failures to act caused by Userís and/or third partiesí actions or failure to act; b) any Userís and/or third partiesí losses irrespective of Administratorís ability to predict them; c) use of the selected way of payment for the Services (or inability to do so), and all possible consequences of these User actions, as well as use of any means of communication by Users and/or third parties (or their inability to do so).
-
-6.5. In no case Administrator and its employees will be liable for any damages, including data losses, or lost profits caused by use of Geodata Service or Administrator blocking or deleting User access to Geodata Service, blocking or deleting User account. 
-
-6.6. If Administrator, in Customerís opinion, fails to deliver the Services properly and in full, Customer may forward to Administrator a written claim asking for a refund of Customerís documented damages and/or early termination of this User Agreement. Administrator is bound to reply to such written claim within 10 (ten) days after its receipt. In case Customerís damages are deemed valid by Administrator, it shall give Customer a refund not exceeding the price of the Services not delivered properly and in full, and/or terminate this User Agreement.
-
-6.7. Neither Party will be liable for any delay or failure to meet its obligations under this User Agreement due to circumstances beyond its reasonable control, and the deadline for performance of obligations will be extended for the duration of such circumstances. In the event Administrator is prevented from performing its obligations under this User Agreement due to circumstances beyond its reasonable control, it will as soon as possible (but not later than within 5 (five) working days) notify User about them and about their expected duration via email or by publishing this information at Administratorís website. Circumstances beyond reasonable control of the Parties include but are not limited to war, riot, insurrection, civil commotion, labor strikes or lockouts, shortages, power outages, fire, flood, earthquake or storm, as well as regulations and actions of government bodies entered into legal force after the Effective date and making performance of obligations under User Agreement impossible. If circumstances beyond reasonable control of the Parties and/or their consequences last more than thirty calendar days in succession, the User Agreement may be terminated at any time by any Party sending written notification to another Party.
-
-6.8. The liability of Administrator for the failure to perform obligations in accordance with this User Agreement may not exceed the Services price. 
-
-6.9. In all cases the aggregate liability of Administrator in accordance with Article 15 of Civil Code of the Russian Federation is limited to 5 000 (five thousand) Russian rubles, and Administrator can be charged with it only if found guilty in his actions or failure to act.
-
-
-7. Miscellaneous
-
-7.1. This User Agreement is concluded between Administrator and User regarding use of Geodata Service. This User Agreement is made effective for the unlimited period of time and supersedes and replaces any prior agreements between Administrator and User regarding use of Geodata Service.
-
-7.2. This User Agreement and any action related thereto will be governed by the laws of the Russian Federation without regard to the location of User or his/her equipment. All claims arising out of or relating to this User Agreement will be litigated exclusively in the courts located at Administratorís place of registration. 
-
-7.3. In case of any dispute relating to this User Agreement User and Administrator first shall seek to resolve them by conducting talks. If dispute is not resolved in this way, it shall be resolved using procedure set by the laws of the Russian Federation. 
-
-7.4. This User Agreement is originally drafted in Russian language and may be provided to User for perusing in another language. If there is any inconsistency between Russian language and another language of User Agreement, the Russian version will prevail to the extent of the inconsistency. 
-
-7.5. If it turns out that a particular term of User Agreement is not enforceable, this will not affect any other terms.
-
-7.6. Administrator may modify/update this User Agreement from time to time without giving any prior notice. The most current version of the Terms is available at http://nextgis.com/terms-data. Administrator recommends Users to check this page for updates. By continuing to access or use Geodata Service after User Agreement was modified/updated, User agrees to be bound by the updated User Agreement. 
-
-7.7. All questions, notices and claims arising from User Agreement shall be sent: 
-- via email: ‡) to Userís email address indicated in Dashboard, when it is addressed to User, b) to Customerís email address indicated in the Order form, when it is addressed to Customer, and c) to Administratorís email address indicated in Clause 8, when it is addressed to Administrator; 
-- via regular mail, using a registered letter with a return receipt, or via courier mail with a delivery confirmation.
-
-7.8. User and Administrator may at any moment enter into bilateral Contract governing use of Geodata Service. In this case terms of bilateral Contract shall supersede terms of the present User Agreement.
-
-
-8. Administrator details:
-
-Limited liability company ìNextGISî
-Tax number (»ÕÕ/ œœ): 7701921884/770101001
-State registration number (Œ√–Õ): 1117746447610
-Legal address: Novoryazanskaya str., 26, building 1, Moscow, Russia
-Mailing address: Office 201, 23B bld. 20 Novaya Basmannaya street, Moscow, 107078, Russia
-CEO: Maxim Y. Dubinin
-Phone: +7 968 730 5252
-Email: info@nextgis.com
-
+NextGIS O√ú
+√ïism√§e tee 149-1
+Tallinn,
+Harjumaa, 13518 
+Estonia
